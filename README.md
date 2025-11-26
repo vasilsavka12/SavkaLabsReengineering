@@ -1,12 +1,13 @@
 # Лабораторні з реінжинірингу (8×)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=bugs)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
-[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=ppanchen_NetSdrClient&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=ppanchen_NetSdrClient)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vasilsavkakey_vasilsavka12_SavkaLabsReengineering&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vasilsavkakey_vasilsavka12_SavkaLabsReengineering)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=vasilsavkakey_vasilsavka12_SavkaLabsReengineering&metric=coverage)](https://sonarcloud.io/summary/new_code?id=vasilsavkakey_vasilsavka12_SavkaLabsReengineering)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=vasilsavkakey_vasilsavka12_SavkaLabsReengineering&metric=bugs)](https://sonarcloud.io/summary/new_code?id=vasilsavkakey_vasilsavka12_SavkaLabsReengineering)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=vasilsavkakey_vasilsavka12_SavkaLabsReengineering&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=vasilsavkakey_vasilsavka12_SavkaLabsReengineering)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=vasilsavkakey_vasilsavka12_SavkaLabsReengineering&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=vasilsavkakey_vasilsavka12_SavkaLabsReengineering)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=vasilsavkakey_vasilsavka12_SavkaLabsReengineering&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=vasilsavkakey_vasilsavka12_SavkaLabsReengineering)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=vasilsavkakey_vasilsavka12_SavkaLabsReengineering&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=vasilsavkakey_vasilsavka12_SavkaLabsReengineering)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=vasilsavkakey_vasilsavka12_SavkaLabsReengineering&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=vasilsavkakey_vasilsavka12_SavkaLabsReengineering)
+
 
 
 Цей репозиторій використовується для курсу **реінжиніринг ПЗ**. 
