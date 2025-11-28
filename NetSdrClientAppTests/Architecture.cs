@@ -17,7 +17,8 @@ namespace NetSdrClientAppTests
                 .HaveDependencyOn("EchoTspServer")
                 .GetResult();
 
-            Assert.IsTrue(result.IsSuccessful);
+            Assert.That(result.IsSuccessful, Is.True);
+
         }
     }
 }
